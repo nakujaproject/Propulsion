@@ -1,5 +1,5 @@
 # Launch Sequence Checklist
-Don protective gear (glasses, safety helmet, overall, safety boots).
+Don protective gear (glasses, safety helmet, overall, safety boots).  
 Propellant casting.
 Igniter preparation.
 Launch brief including safety procedures.
