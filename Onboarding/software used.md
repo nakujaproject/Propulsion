@@ -1,11 +1,11 @@
 
+# Used software
+
 ## Motor-Grain Performance simulation
 
 Currently we are using [openMotor](https://github.com/reilleya/openMotor)
 
-# Used software
-
-## Initial Design
+## Rocket flight performance
 
 Currently we are using [Openrocket v15.03](https://github.com/openrocket/openrocket/releases/download/release-15.03/OpenRocket-15.03.jar)
 
