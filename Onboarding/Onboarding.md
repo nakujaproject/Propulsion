@@ -281,4 +281,4 @@ Once you're connected to the official communication network for the Propulsion t
 
 ## Software stack
 
-Check out the software stack we are using at [here](software20%used.md)
+Check out the software stack we are using at [here](https://github.com/nakujaproject/Propulsion/blob/master/Onboarding/software%20used.md)
