@@ -281,4 +281,4 @@ Once you're connected to the official communication network for the Propulsion t
 
 ## Software stack
 
-Check out the software stack we are using at [here](softwareUsed.md)
+Check out the software stack we are using at [here](software used.md)
